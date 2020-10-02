@@ -1,0 +1,15 @@
+------------------------------------------------------------------------
+r165 | bsmorgan | 2020-08-20 14:19:25 +0000 (Thu, 20 Aug 2020) | 1 line
+Changed paths:
+   M /trunk/Skillet-Classic.toc
+
+- Update .toc
+------------------------------------------------------------------------
+r164 | bsmorgan | 2020-06-08 12:32:24 +0000 (Mon, 08 Jun 2020) | 1 line
+Changed paths:
+   M /trunk/Skillet.lua
+   M /trunk/SkilletOptions.lua
+
+- Add "/skillet flushplayerdata"
+------------------------------------------------------------------------
+

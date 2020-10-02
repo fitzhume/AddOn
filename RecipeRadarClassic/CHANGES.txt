@@ -1,0 +1,34 @@
+lightweight tag 747875f8f11c4a3eef7bfbbd8ab02c277b83e076 1.0.0.23
+Author:	Yunohu <kernighan@gmail.com>
+Date:	Sat Nov 9 20:47:21 2019 +0000
+
+commit 747875f8f11c4a3eef7bfbbd8ab02c277b83e076
+Author: Yunohu <kernighan@gmail.com>
+Date:   Sat Nov 9 20:47:21 2019 +0000
+
+    Version 1.0.0.23
+
+commit c9fb25b47a9d1f2acb7d606cccd0858578bd93ee
+Author: Yunohu <kernighan@gmail.com>
+Date:   Sat Nov 9 20:42:49 2019 +0000
+
+    Fix #35 - If flying, don't scan the zone
+
+commit 6de19ae40e546f577a2df86726bf36ae56ad1f67
+Author: Hantunaar <daxterminator@ctqlmjd.fr>
+Date:   Fri Oct 25 05:07:07 2019 +0000
+
+    frFR.lua edited online with Bitbucket
+
+commit 6de19ae40e546f577a2df86726bf36ae56ad1f67
+Author: Hantunaar <daxterminator@ctqlmjd.fr>
+Date:   Fri Oct 25 05:07:07 2019 +0000
+
+    frFR.lua edited online with Bitbucket
+
+commit 56b6652e7c484eaae00fad9b646ebc39cfac47db
+Author: Yunohu <kernighan@gmail.com>
+Date:   Thu Oct 17 20:38:37 2019 +0000
+
+    Fix #33 - Add esMX support
+

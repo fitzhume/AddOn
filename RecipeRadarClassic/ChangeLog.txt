@@ -1,0 +1,49 @@
+Recipe Radar Classic ChangeLog
+v 1.0.0.23
+- Add esMX support (Issue #33)
+- Update frFR translations
+- Don't scan for recipes in a zone while flying (Issue #35)
+v 1.0.0.22
+- Fix dependent library location (Issue #31)
+v 1.0.0.21
+- Fix Tooltip errors (Issue #16)
+- Fix incorrectly listed vendor locations for some recipes (Issue #29)
+- Fix Expert Cookbook incorrectly showing up after being learned (Issue #26)
+v 1.0.0.20
+- Fix HereBeDragons error by fixing LibTourist library loading
+v 1.0.0.18
+- Fix function call to LibTourist
+v 1.0.0.17
+- Fix library packaging locations
+- Fix koKR to not cause an error
+v 1.0.0.12
+- Update pkgmeta so we pull down the libraries at build time
+v 1.0.0.9
+- Fix recipe database getting cleared
+- Fix profession frame popups
+- Revert tooltip to prior version
+v 1.0.0.8
+- Fix koKR locale again
+- Fix recipe database not updating
+v 1.0.0.7
+- Fix multiple locales to load correctly
+- Fix availbility tooltip frame
+- Disable Enchanting recipes that are not yet in the game 
+v 1.0.0.6
+- Fixed nil reference issues
+v 1.0.0.5
+- Fixed mapping vendors to use TomTom
+- Fixed a ton of issues with Enchanting
+v 1.0.0.4
+- Fix most of the locales
+- Fix WorldMapDetailFrame errors
+v 1.0.0.3
+- Fix GetMapContinents for real this time
+- Fix issues with the AddOn configuration screen
+v 1.0.0.2
+- Fix incorrect known skill tracking (issue #1)
+- Fix GetMapContinents() error (issue #8)
+v 1.0.0.1
+- Fix so zone names are used not uiMapIDs for display
+v 1.0.0.0
+- Rewrite for WoW Classic using modern libraries

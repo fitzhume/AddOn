@@ -1,0 +1,16 @@
+## Interface: 11303
+## Title: Reagent Recipe Classic
+## Author: Liramei
+## Version: 1.6.5
+## Notes: Shows which recipes use the reagent in the tooltip
+## X-Embeds: Ace3
+## X-Category: Tradeskill
+## OptionalDeps: Ace3
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: ReagentRecipeClassicDB
+embeds.xml
+Locale-enUS.lua
+Data.lua
+Core.lua
+

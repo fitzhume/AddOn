@@ -1,0 +1,19 @@
+lightweight tag 9931d74d1ae14b10f700a4a108a80a307b607912 v2.3.5
+Author:	Polite Kiwi <deocojo1@gmail.com>
+Date:	Mon Jul 13 05:39:13 2020 -0400
+
+commit 9931d74d1ae14b10f700a4a108a80a307b607912
+Author: Polite Kiwi <deocojo1@gmail.com>
+Date:   Mon Jul 13 05:39:13 2020 -0400
+
+    Added The Following...
+    
+    - Updated to version 2.3.5
+    - Fixed bug in Tooltip.lua
+      - Where local name could still be indexed
+      - Where things where being divided by zero resulting in inf
+    - VarsUI
+      - Added translations for VarsUI
+      - Corrected line width in frame
+      - Now closes with ESC instead of system menu
+
